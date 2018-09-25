@@ -1,5 +1,8 @@
 _repo: Baron-Trump-s-Marvellous-Underground-Journey_57426
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57426-h/images/cover.jpg
 creator:
   author:
     agent_name: Lockwood, Ingersoll
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '9462'
     url: http://www.gutenberg.org/2009/agents/9462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57426#Baron-Trump-s-Marvellous-Underground-Journey
 gutenberg_issued: '2018-06-30'
 gutenberg_type: Text
 identifiers:
